@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/testdb # flappy embeddé remplacera localhost
+  main:
+    allow-bean-definition-overriding: true
